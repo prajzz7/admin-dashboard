@@ -1,0 +1,58 @@
+.user{
+    flex: 7;
+}
+
+.userTopContainer{
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.userContainer{
+    display: flex;
+    margin: 20PX;
+}
+
+.userUpdate{
+    
+    flex: 4.3;
+    border-radius: 20px;    
+    padding: 30px;
+    margin-right: 20PX;
+    -webkit-box-shadow: 20px 20px 67px -36px rgba(0,0,0,0.75);
+    -moz-box-shadow: 20px 20px 67px -36px rgba(0,0,0,0.75);
+    box-shadow: 20px 20px 67px -36px rgba(0,0,0,0.75);
+}
+
+.userDetails{
+    position: relative;
+    border-radius: 20px;    
+    padding: 30px;
+    flex: 2.7;
+    -webkit-box-shadow: 20px 20px 67px -36px rgba(0,0,0,0.75);
+    -moz-box-shadow: 20px 20px 67px -36px rgba(0,0,0,0.75);
+    box-shadow: 20px 20px 67px -36px rgba(0,0,0,0.75);
+}
+
+.userDetailsImage{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: fit-content;
+    width: fit-content;
+    
+    
+    position: absolute;
+    top: -20px;
+    left: calc(50% - 40px);
+}
+
+.userForm{
+    display: flex;
+    flex-direction: column;
+}
+
+.userName{
+    font-size: 20px;
+}
+

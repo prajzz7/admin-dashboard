@@ -1,0 +1,7 @@
+.home{
+    flex: 7;
+}
+
+.users{
+    display: flex;
+}

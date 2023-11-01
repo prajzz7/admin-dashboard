@@ -1,0 +1,32 @@
+.userListContainer{
+    flex: 7;
+    width: 100%;
+}
+
+.usersListTable{
+    margin: 20px;
+}
+
+.userListImageContainer{
+    display: flex;
+    align-items: center;
+}
+
+.userListImage{
+    height: 30px;
+    margin-right: 10px;
+    width: 30px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.userTableEditButton{
+    margin-right: 10px;
+    color: greenyellow;
+    cursor: pointer;
+}
+
+.userTableDeleteButton{
+    color: rgb(174, 9, 9);
+    cursor: pointer;
+}

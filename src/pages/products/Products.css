@@ -1,0 +1,20 @@
+.productImage{
+    height: 40px;
+    width: 40px;
+    object-fit: contain;
+}
+
+.products{
+    margin: 20px;
+}
+
+.productTableEditButton{
+    margin-right: 10px;
+    color: greenyellow;
+    cursor: pointer;
+}
+
+.productTableDeleteButton{
+    color: rgb(174, 9, 9);
+    cursor: pointer;
+}

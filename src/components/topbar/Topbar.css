@@ -1,0 +1,53 @@
+.topbar{
+    position: sticky;
+    top: 0;
+    z-index: 999;
+    background-color: #557a50;
+    height: 50px;
+    width: 100%;
+}
+
+.topbar-wrapper{
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.topbar-left{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Oswald', sans-serif;
+    padding-left: 25px;
+}
+
+.topbar-right{
+    display: flex;
+    width: 110px;
+    padding-right: 25px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.topbarIconContainer{
+    position: relative;
+    
+}
+.topbarIconContainer:hover{
+    cursor: pointer;
+    
+}
+.notifications-badge{
+    position: absolute;
+    top: -4px;
+    right: -2px;
+    border-radius: 10px;
+    height: 15px;
+    width: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+    color: white;
+    font-size: 12px;
+}

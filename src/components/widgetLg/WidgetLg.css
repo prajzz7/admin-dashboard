@@ -1,0 +1,73 @@
+.widgetLg{
+    flex: 2;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    -webkit-box-shadow: 20px 20px 67px -36px rgba(0,0,0,0.75);
+    -moz-box-shadow: 20px 20px 67px -36px rgba(0,0,0,0.75);
+    box-shadow: 20px 20px 67px -36px rgba(0,0,0,0.75);
+    background-color: white;  
+}
+
+
+
+.tableHeadItem{
+    text-align: start;
+    border-bottom: 1px solid lightgrey;
+    padding: 10px 0;
+}
+
+.tableData{
+    margin: 20px 20px;
+}
+
+.tableDataRow{
+    
+}
+
+.tableDataItem{
+    
+    font-size: 20px;
+    padding: 0 20px 20px 0;
+    border-bottom: 1px solid lightgrey;
+}
+
+.orderTable{
+    border-spacing: 0px 20px;
+    width: 100%;
+}
+
+.statusButton{
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.statusButton.Completed{
+    background-color: lightgreen;
+    color: rgb(16 185 16);
+    
+}
+.statusButton.Pending{
+    background-color: rgb(247, 247, 182);
+    color: rgb(188 188 19);
+}
+.statusButton.Declined{
+    background-color: lightcoral;
+    color: rgb(235 15 15);
+}
+
+.profileContainer img{
+    margin-right: 10px;
+    object-fit: cover;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+}
+
+.profileContainer{
+    display: flex;
+    align-items: center;
+}
