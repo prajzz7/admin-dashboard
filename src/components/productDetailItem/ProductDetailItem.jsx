@@ -17,7 +17,7 @@ const ProductDetailItem = ({data}) => {
           Rs. {price}
         </div>
         <div>
-          {description}
+          Description: {description}
         </div>
     </div>
   )
