@@ -6,7 +6,6 @@ import ArrowUpwardIcon from '@mui/icons-material/ArrowUpward';
 const HighlightInfo = () => {
   return (
     <div className='highlightInfo'>
-<<<<<<< HEAD
         <div className='highlightItem'>
             <h3 className='highlightTitle'>Total Revenue</h3>
             <span className='highlightMoney'>₹ 32,50,456</span>
@@ -43,9 +42,6 @@ const HighlightInfo = () => {
                 <span>Since last week</span>
             </div>
         </div>
-=======
-     
->>>>>>> d8aaaf49fab0e3795ac67c5131dd55d659544315
     </div>
   )
 }
