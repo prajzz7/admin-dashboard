@@ -16,6 +16,7 @@ const HighlightInfo = () => {
 
             </div>
         </div>
+<<<<<<< HEAD
         <div className='highlightItem'>
             <h3 className='highlightTitle'>Total Revenue</h3>
             <span className='highlightMoney'>₹ 32,50,456</span>
@@ -52,6 +53,8 @@ const HighlightInfo = () => {
                 <span>Since last week</span>
             </div>
         </div>
+=======
+>>>>>>> 70075ed32ac9b777acb1afee14980a21eba1221a
     </div>
   )
 }
