@@ -7,7 +7,7 @@ const HighlightInfo = () => {
   return (
     <div className='highlightInfo'>
         <div className='highlightItem'>
-            <h3 className='highlightTitle'>Monthly Revenue</h3>
+            <h3 className='highlightTitle'>Total Revenue</h3>
             <span className='highlightMoney'>₹ 32,50,456</span>
             <div className='highlightAnalyticsContainer'>
                 <span>-2.78%</span> <ArrowDownwardIcon className='arrow negative'/>
