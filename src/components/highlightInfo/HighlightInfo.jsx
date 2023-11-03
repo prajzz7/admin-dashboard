@@ -18,9 +18,6 @@ const HighlightInfo = () => {
                 <span>This span added</span>
             </div>
         </div>
-        <div>
-            MALLU DIV
-        </div>
     </div>
   )
 }
