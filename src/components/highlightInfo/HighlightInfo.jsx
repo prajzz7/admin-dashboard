@@ -35,8 +35,13 @@ const HighlightInfo = () => {
             </div>
         </div>
         <div className='highlightItem'>
-            <h3 className='highlightTitle'>Debt</h3>
+            <h3 className='highlightTitle'>PRAJWAL PANDESHWAR ====== </h3>
             <span className='highlightMoney'>1,25,045</span>
+            <span className='highlightMoney'>1,25,045</span>
+            <span className='highlightMoney'>1,25,045</span>
+            <span className='highlightMoney'>1,25,045</span>
+            <span className='highlightMoney'>1,25,045</span>
+            
             <div className='highlightAnalyticsContainer'>
                 <span>+8.28%</span> <ArrowUpwardIcon className='arrow'/>
                 <span>Since last week</span>
