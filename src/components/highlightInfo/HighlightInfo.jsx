@@ -11,7 +11,7 @@ const HighlightInfo = () => {
             <span className='highlightMoney'>₹ 32,50,456</span>
             <div className='highlightAnalyticsContainer'>
                 <span>-2.78%</span> <ArrowDownwardIcon className='arrow negative'/>
-                <span>Since last week</span>
+                <span>Since last week - 2</span>
             </div>
         </div>
         <div className='highlightItem'>
