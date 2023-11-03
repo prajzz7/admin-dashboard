@@ -14,7 +14,7 @@ const ProductDetailItem = ({data}) => {
           <img style={{height:'100px',width:'100px'}} src={image} alt=''></img>
         </div>
         <div>
-          Rs. {price}
+          Dollar: {price}
         </div>
         <div>
           Description: {description}
