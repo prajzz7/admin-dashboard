@@ -29,6 +29,7 @@ const HighlightInfo = () => {
         <div className='deleteLater'>
             New div added for content
             <button>Submit</button>
+            <button> Cancel </button>
         </div>
         <div className='highlightItem'>
             <h3 className='highlightTitle'>Users</h3>
