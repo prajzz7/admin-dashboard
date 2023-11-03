@@ -13,6 +13,9 @@ const HighlightInfo = () => {
                 <span>-2.78%</span> <ArrowDownwardIcon className='arrow negative'/>
                 <span>Since last week 1</span>
                 <span>Since last week 1</span>
+                <span>This span added</span>
+                <span>This span added</span>
+                <span>This span added</span>
 
             </div>
         </div>
